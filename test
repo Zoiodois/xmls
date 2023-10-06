@@ -2,7 +2,7 @@
 <nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
   <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
     <infNFe Id="NFe41230976107770000108551000001542641862219982" versao="4.00">
-<det nItem="1">
+    <det nItem="1">
         <prod>
           <cProd>90117</cProd>
           <cEAN>SEM GTIN</cEAN>
